@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://mettz.dev/</loc>
+    </url>
+    <url>
+        <loc>https://mettz.dev/blog/</loc>
+    </url>
+    <url>
+        <loc>https://mettz.dev/blog/fifth/</loc>
+        <lastmod>2019-11-27</lastmod>
+    </url>
+    <url>
+        <loc>https://mettz.dev/blog/first/</loc>
+        <lastmod>2019-11-27</lastmod>
+    </url>
+    <url>
+        <loc>https://mettz.dev/blog/fourth/</loc>
+        <lastmod>2019-11-30</lastmod>
+    </url>
+    <url>
+        <loc>https://mettz.dev/blog/second/</loc>
+        <lastmod>2019-11-28</lastmod>
+    </url>
+    <url>
+        <loc>https://mettz.dev/blog/third/</loc>
+        <lastmod>2019-11-29</lastmod>
+    </url>
+</urlset>
